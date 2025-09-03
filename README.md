@@ -33,8 +33,8 @@ The development of LLMs is a result of several key breakthroughs in the field of
 In this repository, you will find two Jupyter Notebook files:
 
 
-## step1.ipynb
-## step2.ipynb
+## Assignment1.ipynb
+## Assignment2.ipynb
 
 
 These notebooks contain the code for our assignments, which involve practical exercises related to the concepts covered in Unit 1.
